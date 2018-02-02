@@ -1,0 +1,70 @@
+body {
+    background-color: #6699ff;
+    color:#d5e3ff;
+    font-family: "Verdana";
+    
+}
+
+#wrapper{
+	width: 80%;
+	margin: auto;
+	background-color: #ffffff;
+}
+
+#footer{
+	font-size: .70em;
+	font-style: italic;
+}
+
+nav table tr td{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+h1{
+	line-height: 200%;
+	color:#ffffff;
+	text-shadow: 1px 2px #dedede;
+}
+
+.boldText{
+	color: 003366;
+
+}
+
+.boldText1{
+	color: 003366;
+	text-shadow:1px 2px #aaa;
+}
+
+nav a:link{
+	color: #2a2ac0;
+	text-decoration:  none;
+}
+
+nav a:visited{
+	color: #037aba;
+	text-decoration:  none;
+}
+
+p{
+	color:#460da5;
+}
+
+#heading1,#heading2,#heading3{
+	background-color:#003f6e;
+	background-image: url("../imgs/lilfish.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-shadow: 1px 2px #aaa;
+	text-align: center;
+}
+#heading4,#heading5{
+	background-color: #2a2ac0;
+	background-image: url("../imgs/lilfish.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-shadow:1px 2px #aaa;
+	text-align: center;
+}
+
